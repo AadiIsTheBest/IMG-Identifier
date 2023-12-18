@@ -1,0 +1,16 @@
+.primary{
+    font-style: italic;
+    width: 80%;
+    font-size: 37px;
+}
+body{
+    background-color: aqua;
+}
+#camera,#result{
+    border:2px solid black;
+    width: 357px;
+    height: 358px;
+}
+.nameofobjects{
+    color:darkblue;
+}
